@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PrinceSinghdoya/DSA-Python-Daily-Work/tree/master/0169-majority-element) |
+| [0875-koko-eating-bananas](https://github.com/PrinceSinghdoya/DSA-Python-Daily-Work/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/PrinceSinghdoya/DSA-Python-Daily-Work/tree/master/0278-first-bad-version) |
+| [0875-koko-eating-bananas](https://github.com/PrinceSinghdoya/DSA-Python-Daily-Work/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
