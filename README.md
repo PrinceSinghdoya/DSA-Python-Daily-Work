@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/PrinceSinghdoya/DSA-Python-Daily-Work/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/PrinceSinghdoya/DSA-Python-Daily-Work/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/PrinceSinghdoya/DSA-Python-Daily-Work/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
